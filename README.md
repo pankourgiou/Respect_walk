@@ -1,1 +1,1 @@
-#This is a simple hello world program in python programming language.
+#Let's put some fun into computing it's a very simple program in swift.
